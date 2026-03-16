@@ -4,4 +4,4 @@ streamlit==1.35.0
 googlesearch-python
 matplotlib
 python-dotenv
-pillow==10.3.0
+python-3.11
